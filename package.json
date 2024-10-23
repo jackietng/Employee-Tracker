@@ -1,0 +1,18 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Jacqueline Nguyen",
+  "license": "MIT",
+  "description": "Employee Tracker to view and add employees and departments",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^12.0.0",
+    "pg": "^8.13.0"
+  }
+}
