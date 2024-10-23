@@ -96,3 +96,6 @@ Contributions to the Employee Tracker project are welcome. Please ensure to upda
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+# Employee-Tracker
+Employee Tracker CLI Application
